@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WorldWindow</string>
+    <string name="shared_preference">SharedPreference</string>
+    <string name="username">username</string>
+</resources>
